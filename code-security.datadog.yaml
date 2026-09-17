@@ -1,0 +1,4 @@
+schema-version: v1.5
+sast:
+  # Static Code Analysis (SAST) configuration
+  use-default-rulesets: true
